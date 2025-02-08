@@ -12,3 +12,10 @@ A **React-based Myntra Clone** that replicates the **Myntra shopping experience*
 💰 Price Calculation – Automatically calculates the total price, including taxes & discounts.
 
 🚀 Local Node.js Server – Fetches product details dynamically.
+
+## 📸 Screenshots
+
+### 🏠 Home Page:
+![Home Page](https://github.com/prerna-154/Myntra/blob/main/Screenshot%202025-02-08%20130212.png)
+### 🛒 Shopping Cart:
+![Shopping Cart](https://github.com/prerna-154/Myntra/commit/095565a8ac4fcf4552da97822e4e26333501173f)
