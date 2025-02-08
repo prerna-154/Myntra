@@ -1,8 +1,12 @@
-# React + Vite
+# Myntra React Clone 🛍️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **React-based Myntra Clone** that replicates the **Myntra shopping experience**.
 
-Currently, two official plugins are available:
+## Features ✨
+🛒 Add to Cart – Effortlessly add products to your shopping cart.
+❌ Remove from Cart – Remove unwanted products with a single click.
+🛍️ Cart Page – View all selected items in a dedicated cart page.
+💰 Price Calculation – Automatically calculates the total price, including taxes & discounts.
+🚀 Local Node.js Server – Fetches product details dynamically.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
